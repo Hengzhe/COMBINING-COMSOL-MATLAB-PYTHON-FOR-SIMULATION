@@ -5,4 +5,4 @@ COMSOL, fit for solving the equation of the model
 PYTHON, has lots of package for optimizing algorithm
 However, the two COMSOL doesn't have a LiveLink for Python, So, we use MATLAB to conbine the two software together.
 
-s
+We use such combination for simulating the optimization of light wavefront, which can propagate through the turbid medium and focus.
